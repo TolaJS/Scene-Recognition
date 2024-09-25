@@ -1,0 +1,14 @@
+numpy==1.26.4
+torch==2.2.1
+torchvision==0.17.1
+jupyter==1.0.0
+tqdm==4.66.2
+transformers==4.39.1
+accelerate==0.28.0
+torchsummary==1.5.1
+matplotlib==3.8.4
+tensorboard==2.16.2
+scikit-learn==1.4.2
+seaborn==0.13.2
+quanto==0.1.0
+pthflops==0.4.2
